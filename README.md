@@ -2,6 +2,12 @@
 
 Bu proje, istenen "Sağlık Hizmeti Sağlayıcıları (Provider) Arama Akışı" görevini Flutter ile üretim kalitesine (production-ready) en yakın şekilde geliştirmek amacıyla hazırlanmıştır. Uygulama; Liste, Filtre ve Profil Detay olmak üzere 3 temel ekrandan oluşmaktadır.
 
+## Demo APK İndir
+Projeyi derlemekle uğraşmadan doğrudan telefonunuzda test etmek için Android APK dosyasını aşağıdan indirebilirsiniz:
+
+[📱 MediFinder Demo APK (v1.0.0) İndir](https://github.com/mahmutcancokcapar/medifinder_demo/releases/download/v1.0.0/app-release.apk)
+
+
 ## Ekran Görüntüleri
 
 <p align="center">
